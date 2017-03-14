@@ -17,4 +17,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+
+    <TextView
+        android:text="\n\n\n hi"
+        android:layout_width="150"
+        android:layout_height="150" />
+
 </RelativeLayout>
